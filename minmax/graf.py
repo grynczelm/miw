@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python
 
 class Node:
     def __init__(self, parent, value):
